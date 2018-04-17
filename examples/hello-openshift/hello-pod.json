@@ -1,5 +1,5 @@
 {
-  "kind": "Pod",
+  "kind": "Image",
   "apiVersion": "v1",
   "metadata": {
     "name": "hello-openshift",
